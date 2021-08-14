@@ -1,0 +1,43 @@
+h1{
+    display:flex;
+    justify-content: center;
+}
+form{
+    display:flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#webButton{
+    
+    margin: 0px;
+    margin-top: 75px;
+    display:flex;
+    justify-content: center;
+    
+}
+#ourWeb{
+    width:250px;
+    height: 50px;
+    font-weight:bold;
+    border: none;
+}
+
+#ourWeb:hover{
+    
+    Background-color:gray;
+    opacity: 0.5;
+}
+
+body{
+    background-image: radial-gradient(#F9DBBD,#FCA17D,#0D0628);
+}
+
+p{
+    font-weight:bold;
+}
